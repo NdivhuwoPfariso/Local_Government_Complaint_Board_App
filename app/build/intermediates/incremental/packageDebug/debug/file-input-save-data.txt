@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Apr 05 23:21:15 CAT 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Pfariso\\Documents\\GitHub\\Local_Government_Complaint_Board_App\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

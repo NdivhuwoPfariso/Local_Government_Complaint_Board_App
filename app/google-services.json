@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "769131222698",
+    "firebase_url": "https://localgovernmentcomplaintboarda.firebaseio.com",
+    "project_id": "localgovernmentcomplaintboarda",
+    "storage_bucket": "localgovernmentcomplaintboarda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769131222698:android:486094df6cca07e7",
+        "android_client_info": {
+          "package_name": "app.complaint.goverment.local.local_government_complaint_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769131222698-hejfr6lr5evap5ggd5jtpnb3pq51sqta.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.complaint.goverment.local.local_government_complaint_app",
+            "certificate_hash": "2bfb79b04de25a6a4c8f769df35a04cebc65ff2d"
+          }
+        },
+        {
+          "client_id": "769131222698-eck7868m90rfa76tnh7ltmk6qj6j2kt3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCov5rnGIIK0fzVfUquqNXBC1SnCPC6krE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769131222698-eck7868m90rfa76tnh7ltmk6qj6j2kt3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
