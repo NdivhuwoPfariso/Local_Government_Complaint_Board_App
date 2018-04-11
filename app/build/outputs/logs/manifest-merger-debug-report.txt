@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
+ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
 MERGED from [com.android.support:design:27.1.0] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\design-27.1.0.aar\9444c6dbf453e1d211ce406c1564edb9\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fd0b60884bc3c9000bda497470072808\AndroidManifest.xml:2:1-6:12
 MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\2e4e3fbb7e704e01b984704048658bcd\AndroidManifest.xml:17:1-22:12
@@ -34,25 +34,25 @@ MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Pfariso\.gradle\cach
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\858a22cfb1ad349865d34c02f20be542\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9d38218d9ed78af59af89b5aeea3e97d\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\97a6d17da0b4bc6c6eba94a06ea9b7ab\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
-INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
 	package
 		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:3:5-75
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-22:12
+		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:1-23:12
 		INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:5:5-20:19
+ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:5:5-21:19
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fd0b60884bc3c9000bda497470072808\AndroidManifest.xml:5:5-20
 MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\firebase-core-11.0.4.aar\fd0b60884bc3c9000bda497470072808\AndroidManifest.xml:5:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Pfariso\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\ca19015084fcae436dcc8ee0292f4f5b\AndroidManifest.xml:9:5-20
@@ -100,9 +100,13 @@ ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_Ap
 	android:name
 		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:16:27-74
 activity#app.complaint.goverment.local.local_government_complaint_app.Register_page
-ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:19:9-60
+ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:19:9-51
 	android:name
 		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:19:19-48
+activity#app.complaint.goverment.local.local_government_complaint_app.Home_Page
+ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:20:9-56
+	android:name
+		ADDED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml:20:19-44
 uses-sdk
 INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Pfariso\Documents\GitHub\Local_Government_Complaint_Board_App\app\src\main\AndroidManifest.xml

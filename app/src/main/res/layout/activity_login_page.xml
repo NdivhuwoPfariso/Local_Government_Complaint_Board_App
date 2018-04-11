@@ -56,4 +56,14 @@
         android:layout_gravity="center"
         android:text="@string/login"/>
 
+    <Button
+        android:id="@+id/reg"
+        android:layout_width="180dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="80dp"
+        android:layout_gravity="bottom"
+        android:text="@string/register"/>
+
+
+
 </LinearLayout>

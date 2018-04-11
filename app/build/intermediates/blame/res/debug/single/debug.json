@@ -104,6 +104,10 @@
         "source": "C:\\Users\\Pfariso\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\2e4e3fbb7e704e01b984704048658bcd\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
+        "merged": "C:\\Users\\Pfariso\\Documents\\GitHub\\Local_Government_Complaint_Board_App\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home__page.xml.flat",
+        "source": "C:\\Users\\Pfariso\\Documents\\GitHub\\Local_Government_Complaint_Board_App\\app\\src\\main\\res\\layout\\activity_home__page.xml"
+    },
+    {
         "merged": "C:\\Users\\Pfariso\\Documents\\GitHub\\Local_Government_Complaint_Board_App\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
         "source": "C:\\Users\\Pfariso\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\2e4e3fbb7e704e01b984704048658bcd\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
     },
